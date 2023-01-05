@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.main-title{
+    text-align: center;
+    color: black;
+}
+.add{
+    text-align: center;
+}
+div.navbar-nav {
+    margin: 0 auto;
+}
+div.navbar-nav a{
+    color: black;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.navbar{
+    max-height: 80px;
+    text-align: center;
+}
+.nav-item{
+    color: white;
+}
+img{
+    width: 92px;
+}
+body{
+    background-color: whitesmoke;
+}
+.fa-eye{
+    color: #438543;
+}
+.fa-pen-to-square{
+    color: blue;
+}
+.fa-trash{
+    color: red;
+}
